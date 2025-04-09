@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Katherine Bonilla
+- 👋 Hi, I’m @kbon777
 - 👀 I’m interested in becoming proficient in coding
 - 🌱 I’m currently learning how to incorporate AI into projects
 - 💞️ I’m looking to collaborate on anything I can learn from
